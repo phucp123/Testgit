@@ -5,10 +5,6 @@ export function add(c, d) {
   return c + d;
 }
 
-export function subtract(a, b) {
-  return a - b;
-}
-
 export const multiply = (a, b) => a * b;
 
 // Default export
